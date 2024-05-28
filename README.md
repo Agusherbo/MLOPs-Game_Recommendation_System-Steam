@@ -77,6 +77,7 @@ Enlace con las funciones desarrolladas: [Funciones_API](https://github.com/Agush
 ## Modelo de Recomendación
 
 Se implementa un sistema de recomendación  item-item. En este caso el sistema de recomendación funciona tomando un item_id y encontrando cinco similares a este.
+
 Nota: De manera similar a las funciones, en el modelo de recomendación, también se emplearon muestras reducidas de los dataframes originales. Esto se hizo para garantizar un rendimiento óptimo del modelo y evitar problemas de capacidad de procesamiento durante el despliegue (deploy) de la API en Render.
 [Modelo](https://github.com/Agusherbo/MLOPs-Game_Recommendation_System-Steam/blob/main/Modelo_recommend.ipynb)
 
