@@ -81,7 +81,7 @@ Se implementa un sistema de recomendación  item-item. En este caso el sistema d
 Nota: De manera similar a las funciones, en el modelo de recomendación, también se emplearon muestras reducidas de los dataframes originales. Esto se hizo para garantizar un rendimiento óptimo del modelo y evitar problemas de capacidad de procesamiento durante el despliegue (deploy) de la API en Render.
 [Modelo](https://github.com/Agusherbo/MLOPs-Game_Recommendation_System-Steam/blob/main/Modelo_recommend.ipynb)
 
-### Deploy en Render
+## Deploy en Render
 
 Para el deploy de la API se seleccionó la plataforma Render que es una nube unificada para crear y ejecutar aplicaciones y sitios web, permitiendo el despliegue automático desde GitHub.
 El servicio queda corriendo en [https://repo-deploy.onrender.com](https://api-render-r1zg.onrender.com/docs)
