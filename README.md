@@ -2,11 +2,9 @@
 
 
 
-## Introducción
+## Contexto y descripcion del trabajo
 
 En este proyecto, se desarrollará el rol de un Ingeniero MLOps en Steam (plataforma de juegos). El objetivo principal es crear un sistema de recomendación de videojuegos utilizando técnicas de Machine Learning. Los datos necesitan un respectivo tratamiento (ETL, EDA), y la tarea es transformarlos para disponer de ellos y desarrollar un Producto Mínimo Viable (MVP) que luego sea desplegado como una API.
-
-## Descripción del Problema
 
 Es necesario crear un modelo de aprendizaje automático para un sistema de recomendación de videojuegos. El estado actual de los datos es crudo y no procesado. Nuestro objetivo es empezar desde cero, realizar tareas de procesamiento de Datos y entregar un MVP al final del proyecto.
 
