@@ -1,6 +1,8 @@
 <h1 align="center"> MLOPs-Game Recommendation System / Steam </h1>
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/67664604/217914153-1eb00e25-ac08-4dfa-aaf8-53c09038f082.png"  height=300>
+</p>
 
 ## Contexto y descripcion del trabajo
 
@@ -76,6 +78,9 @@ Enlace con las funciones desarrolladas: [Funciones_API](https://github.com/Agush
 
 Se implementa un sistema de recomendación  item-item. En este caso el sistema de recomendación funciona tomando un item_id y encontrando cinco similares a este.
 
++ def **recomendacion_juego( *`id de producto`* )**:
+    Ingresando el id de producto, recibimos una lista con 5 juegos recomendados similares al ingresado.
+
 Nota: De manera similar a las funciones, en el modelo de recomendación, también se emplearon muestras reducidas de los dataframes originales. Esto se hizo para garantizar un rendimiento óptimo del modelo y evitar problemas de capacidad de procesamiento durante el despliegue (deploy) de la API en Render.
 [Modelo](https://github.com/Agusherbo/MLOPs-Game_Recommendation_System-Steam/blob/main/Modelo_recommend.ipynb)
 
@@ -103,6 +108,8 @@ En el desarrollo de este proyecto, aprovechamos varias tecnologías para llevar 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
 
+## Autor ✒️
+* **Agustin Herbozo**  - [LinkedIn](https://www.linkedin.com/in/agustin-herbozo-1a3b7111b/)
 
 
 
