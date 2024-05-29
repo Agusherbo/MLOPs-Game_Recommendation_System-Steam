@@ -89,7 +89,7 @@ El servicio queda corriendo en [https://repo-deploy.onrender.com](https://api-re
 
 ## Video
 
-En este [link] se encuentra el video donde se explica brevemente el desarrollo del proyecto y el correcto funcionamiento de la API desplegada en el servicio web de Render.
+En este [link](https://youtu.be/CD9gITRyTE0) se encuentra el video donde se explica brevemente el desarrollo del proyecto y el correcto funcionamiento de la API desplegada en el servicio web de Render.
 
 ## Tecnologías Utilizadas
 
