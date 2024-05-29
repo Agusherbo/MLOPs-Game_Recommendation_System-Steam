@@ -101,7 +101,6 @@ En el desarrollo de este proyecto, aprovechamos varias tecnologías para llevar 
 ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
 ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
 
 
